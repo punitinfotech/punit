@@ -1,0 +1,7 @@
+How to deploy sites via GitHub
+02 Nov 2011
+
+After one my last posts about GitHub and how it's saved my ass a number of times, I had a few requests to detail just how I deploy sites with GitHub. So, here we go!
+First, some background
+
+I host this site, and a number of others, with Media Temple. My code, however, is verson-controlled with GitHub, where I have a paid account, the $12/month plan. That's namely for the remote-hosted private repos they provide, but I also use GitHub to contribute to a few repos, watch numerous others, and of course maintain Bootstrap.
